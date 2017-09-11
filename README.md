@@ -1,6 +1,6 @@
-#Tarea 04.
+# Tarea 04.
 
-###Tarea 4. Selección en Python.
+###T area 4. Selección en Python.
 
 Consulta el documento anexo con la descripción de los 5 problemas que debes resolver.
 
