@@ -12,5 +12,3 @@ Recuerda:
 * Abrir el Pull Request para que te califique.
 
 A pesar de que no es obligatorio entregar el Análisis y los algoritmos, te sugiero que los hagas en papel para que resuelvas con mayor facilidad los problemas.
-
-![Imagen Top-Down](https://lh5.googleusercontent.com/GpHZlCTJaNR4Y2-OOhfdAa3ITWR33J1qtWxOcL478ZpduyeJRGsUiXZQyXTI2jr8qGr5FH7CZ4wOVdc=w1363-h755)
